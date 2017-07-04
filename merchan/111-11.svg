@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="圖層_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="481.94px" height="976.877px" viewBox="0 0 481.94 976.877" enable-background="new 0 0 481.94 976.877"
+	 xml:space="preserve">
+<rect x="29.999" y="117.493" fill="#00B8E9" width="419.979" height="743.463"/>
+<rect x="29.999" y="117.493" fill="#1789A3" width="419.979" height="134.493"/>
+<text transform="matrix(1 0 0 1 133.4932 210.9883)" fill="#FFFFFF" font-family="'MicrosoftJhengHeiRegular'" font-size="60">線上諮詢</text>
+<rect x="38.48" y="258.313" fill="#FFFFFF" width="401.979" height="595.47"/>
+<g>
+	<text transform="matrix(1 0 0 1 60.9785 321.3164)" fill="#3D3D3D" font-family="'MicrosoftJhengHeiRegular'" font-size="36">小芳</text>
+	<text transform="matrix(1 0 0 1 380.9634 356.3135)" fill="#CC1515" font-family="'MicrosoftJhengHeiRegular'" font-size="24">未讀</text>
+	<text transform="matrix(1 0 0 1 193.4717 321.3164)" fill="#7C7C7C" font-family="'MicrosoftJhengHeiRegular'" font-size="24">2016.12.24 PM 23:23</text>
+	<path fill="#E8E8E8" d="M372.963,382.312c0,6.628-5.372,12-12,12H72.979c-6.627,0-12-5.372-12-12v-34.503c0-6.627,5.373-12,12-12
+		h287.985c6.628,0,12,5.373,12,12V382.312z"/>
+	<text transform="matrix(1 0 0 1 81.9771 373.3125)" font-family="'MicrosoftJhengHeiRegular'" font-size="24">請問營業時間是??</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 60.978 480.9727)" fill="#3D3D3D" font-family="'MicrosoftJhengHeiRegular'" font-size="36">王大明</text>
+	<text transform="matrix(1 0 0 1 380.9624 515.9697)" fill="#CC1515" font-family="'MicrosoftJhengHeiRegular'" font-size="24">未讀</text>
+	<text transform="matrix(1 0 0 1 192.4712 480.9727)" fill="#7C7C7C" font-family="'MicrosoftJhengHeiRegular'" font-size="24">2016.12.24 PM 23:23</text>
+	<path fill="#E8E8E8" d="M372.962,541.968c0,6.628-5.371,12-12,12H72.979c-6.628,0-12-5.372-12-12v-34.503c0-6.627,5.372-12,12-12
+		h287.984c6.629,0,12,5.373,12,12V541.968z"/>
+	<text transform="matrix(1 0 0 1 81.9766 532.9688)" font-family="'MicrosoftJhengHeiRegular'" font-size="24">我要訂位??</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 60.978 648.9453)" fill="#3D3D3D" font-family="'MicrosoftJhengHeiRegular'" font-size="36">陳圓圓</text>
+	<text transform="matrix(1 0 0 1 192.4712 648.9463)" fill="#7C7C7C" font-family="'MicrosoftJhengHeiRegular'" font-size="24">2016.12.24 PM 23:23</text>
+	<path fill="#E8E8E8" d="M372.962,709.941c0,6.628-5.371,12-12,12H72.979c-6.628,0-12-5.372-12-12v-34.503c0-6.627,5.372-12,12-12
+		h287.984c6.629,0,12,5.373,12,12V709.941z"/>
+	<text transform="matrix(1 0 0 1 81.9766 700.9424)" font-family="'MicrosoftJhengHeiRegular'" font-size="24">我要訂位??</text>
+	<path fill="#F9F9F9" stroke="#000000" stroke-miterlimit="10" d="M422.478,794.482c0,6.628-5.371,12-12,12H122.494
+		c-6.628,0-12-5.372-12-12v-34.503c0-6.627,5.372-12,12-12h287.984c6.629,0,12,5.373,12,12V794.482z"/>
+	<text transform="matrix(1 0 0 1 131.4917 785.4834)" font-family="'MicrosoftJhengHeiRegular'" font-size="24">請問幾位?</text>
+</g>
+</svg>
